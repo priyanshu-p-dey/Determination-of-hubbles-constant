@@ -22,6 +22,8 @@ Below is the generated scatter plot mapping the distance of Type Ia supernovae a
 
 ![Hubble Diagram](download.png) 
 
+## Reference : 
+https://supernova.lbl.gov/union/
 
 ## Technologies Used
 * **Python:** Core programming language.
